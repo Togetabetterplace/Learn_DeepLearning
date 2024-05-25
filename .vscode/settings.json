@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "workbench.tree.indent": 16,
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.rightClickBehavior": "paste"
+}
